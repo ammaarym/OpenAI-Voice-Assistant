@@ -1,4 +1,4 @@
-# OpenAI-Voice-Assistant
+# Ava - Artificial Virtual Assistant	
 This Python script utilizes OpenAI's GPT-3 model, speech recognition, and text-to-speech capabilities to create a voice-controlled AI assistant. Here's how it works:
 
 Getting Started

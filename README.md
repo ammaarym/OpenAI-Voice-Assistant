@@ -8,6 +8,7 @@ Install Dependencies: Ensure you have the required Python libraries installed. Y
 
 Copy code
 pip install openai pyttsx3 SpeechRecognition
+
 Initialize Text-to-Speech Engine: The script uses the pyttsx3 library to convert text into speech. Make sure you have it installed.
 
 How to Use
